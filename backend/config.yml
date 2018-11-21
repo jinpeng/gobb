@@ -1,0 +1,14 @@
+appname: test
+
+http:
+    host: 0.0.0.0
+    port: 5678
+db:
+    host: 127.0.0.1
+    port: 5432
+    user: gobb
+    pass: gobb
+
+auth:
+    jwtkey: gobbjwtkeyfromfile
+    jwtalgorithm: HMAC+SHA256

@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+backend/gobb
 
 # Test binary, build with `go test -c`
 *.test
